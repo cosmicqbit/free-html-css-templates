@@ -20,3 +20,10 @@ Site | Description
 [Onepagelove](https://onepagelove.com/) | One-page websites, templates and resources
 [BootstrapTaste](https://bootstraptaste.com/) | Premium & Free Bootstrap Templates
 [Themewagon](https://themewagon.com/) | Best Free & Premium responsive Bootstrap Templates
+
+## Related
+Site | Description
+------ | ------
+[Vidlery](http://vidlery.com/) | Free Animated Video Backgrounds for Homepage
+[HTMLColorCodes](https://htmlcolorcodes.com/) | Find HTML Color codes for your website
+[SocialSizes](https://socialsizes.io/) | Image and Video sizes for Social Media.
