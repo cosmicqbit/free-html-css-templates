@@ -30,3 +30,5 @@ Site | Description
 [Vidlery](http://vidlery.com/) | Free Animated Video Backgrounds for Homepage
 [HTMLColorCodes](https://htmlcolorcodes.com/) | Find HTML Color codes for your website
 [SocialSizes](https://socialsizes.io/) | Image and Video sizes for Social Media.
+
+**Feel free to contribute to or fork the repo.**
